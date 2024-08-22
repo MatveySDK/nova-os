@@ -20,9 +20,9 @@ Operating system of the DOS family, created in the low-level Assembler programmi
 * Work on physical machines from a flash drive without installation
 
 ## Documentation
-* How to create DOS OS
-* How to compile code [Windows]
-* System overview (YouTube)
+* [How to create DOS OS](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
+* [How to compile code [Windows]](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
+* [System overview [YouTube]](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
 
 ## Support Me:)
 * [Trade Steam](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)

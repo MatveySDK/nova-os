@@ -18,6 +18,7 @@ Operating system of the DOS family, created in the low-level Assembler programmi
 * Macro for improved OS compilation
 * Command system.
 * Work on physical machines from a flash drive without installation
+* Kernel update to C
 
 ## Documentation
 * [How to create DOS OS](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)

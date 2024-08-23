@@ -21,7 +21,7 @@ Operating system of the DOS family, created in the low-level Assembler programmi
 * Kernel update to C
 
 ## Documentation
-* [How to create DOS OS](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
+* [How to create DOS OS](https://github.com/MatveySDK/nova-os/wiki/How-to-create-DOS-OS-%5Bon-Windows%5D)
 * [How to compile code [Windows]](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
 * [System overview [YouTube]](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
 

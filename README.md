@@ -19,6 +19,7 @@ Operating system of the DOS family, created in the low-level Assembler programmi
 * Command system.
 * Work on physical machines from a flash drive without installation
 * Kernel update to C
+* Custom tool for convenient project compilation
 
 ## Documentation
 * [How to create DOS OS](https://github.com/MatveySDK/nova-os/wiki/How-to-create-DOS-OS-%5Bon-Windows%5D)

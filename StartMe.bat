@@ -6,6 +6,7 @@ echo Type !help for more information
 set /p input=Enter command:
 
 if "%input%" == "!help" goto help
+if "%input%" == "!about" goto about
 if "%input%" == "!version" goto version
 if "%input%" == "!kernel" goto kernel
 if "%input%" == "!boot" goto boot
@@ -30,26 +31,26 @@ pause>nul
 goto loop
 
 :kernel
-echo kernel
+start compile[kernel].bat
 pause>nul
 goto loop
 
 :boot
-echo boot
+start compile[boot].bat
 pause>nul
 goto loop
 
 :about
-echo about
+echo Utility for easy project compilation
 pause>nul
 goto loop
 
 :macro
-echo macro
+start compile[macro].bat
 pause>nul
 goto loop
 
 :compile_build
-echo ahahhaa
+start compile[boot].bat & start compile[kernel].bat & start compile[macro].bat
 pause>nul
 goto loop

@@ -1,0 +1,5 @@
+Open the bat files step by step:
+1. Compile the boot
+2. Compile the Kernel
+3. Compile the Macro
+4. Mount the os.bin that appears into a self-booting iso file. Then download to the virtual machine

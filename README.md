@@ -7,7 +7,6 @@ Operating system of the DOS family, created in the low-level Assembler programmi
 * ![VSCode](https://img.shields.io/badge/-VisualStudioCode-42AAFF)
 * ![GitHub Dekstop](https://img.shields.io/badge/-GitHubDekstop-414A4C)
 * ![UltraISO](https://img.shields.io/badge/-UltraISO-b87333)
-* ![ResourceHacker](https://img.shields.io/badge/-ResourceHacker-FFBA00)
 
 ## Features
 * Pure assembler

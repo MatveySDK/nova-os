@@ -14,13 +14,7 @@ Operating system of the DOS family, created in the low-level Assembler programmi
 * Powered by Virtual Box
 * I/O system
 * Macro for improved OS compilation
-* StartMe - a program for convenient work with the project
-
-## Current Task
-* Command system.
-* Work on physical machines from a flash drive without installation
-* Kernel update to C
-* Connect Docker
+* StartMe - a program for convenient work with the project (Windows)
 
 ## Support Me:
 * [Trade Steam](https://steamcommunity.com/tradeoffer/new/?partner=1296316604&token=V9fm6hQ2)
